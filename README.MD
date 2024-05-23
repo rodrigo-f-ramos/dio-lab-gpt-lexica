@@ -17,6 +17,8 @@
 
  > ℹ️ **NOTE:** Este repositório foi desenvolvido como projeto durante o módulo 'Transformando Promps em Soluções Reais' no Bootcamp Santander 2024 na plataforma da [DIO](https://dio.me).
 
+<a href="https://dio.me/articles/dominando-git-e-github-um-guia-para-iniciantes" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
