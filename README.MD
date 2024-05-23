@@ -15,14 +15,14 @@
 <p align="center">
   <img 
     src=".github/assets/git-github-capa.png"
-    width="400"  
+    width="1350"  
   />
 </p>
 
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este repositório foi desenvolvido como projeto durante o módulo 'Transformando Promps em Soluções Reais' no Bootcamp Santander 2024 na plataforma da [DIO](https://dio.me).
 
 
 ## 💻 Tecnologias utilizadas no projeto
