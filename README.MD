@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/git-github.png"
+    src=".github/assets/git-github-capa.png"
     width="400"  
   />
 </p>
@@ -46,7 +46,7 @@ Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• Angular
+• Git, Github
 
 
 
